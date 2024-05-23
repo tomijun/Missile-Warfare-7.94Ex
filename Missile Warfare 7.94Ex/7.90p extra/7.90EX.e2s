@@ -1,0 +1,313 @@
+S_ProjectSET
+Version : 0.17.8.2
+InputMap : I:\ANi\Wav\마린키우기 N\euddraft0.8.6.5\F미사일피하기44.scx
+OutputMap : C:\Program Files (x86)\StarCraft\Maps\123123.scx
+euddraftuse : True
+loadfromCHK : True
+UsedSetting0 : True
+UsedSetting1 : True
+UsedSetting2 : False
+UsedSetting3 : True
+UsedSetting4 : True
+UsedSetting5 : False
+UsedSetting6 : True
+UsedSetting7 : True
+UsedSetting8 : True
+EUDEditorDebug : False
+epTraceDebug : False
+triggerSetTouse : True
+triggerPlayer : 7
+E_ProjectSET
+S_DatEditSET
+E_DatEditSET
+S_FireGraftSET
+E_FireGraftSET
+S_BtnSET
+E_BtnSET
+S_ReqSET
+E_ReqSET
+S_BinEditSET
+projectsceneDataCount : 1
+projectsceneData 0binDataCount : 26
+E_BinEditSET
+S_SoundPlayerSET
+Soundinterval : 3
+E_SoundPlayerSET
+S_GRPEditorSET
+GRPEditorDATCount : 0
+GRPEditorUsingDATCount : 0
+GRPEditorUsingindexDATCount : 0
+E_GRPEditorSET
+S_TileSET
+ProjectTileUseFile : False
+ProjectTileSetFileName : 
+ProjectTIleMSetCount : 22641
+ProjectTIleMSetArray : 
+ProjectTileSetDataCount : 0
+ProjectMTXMDATACount : 4096
+ProjectMTXMDATAArray : 
+E_TileSET
+S_SCDBSet
+SCDBDeath : 
+SCDBLoc : 
+SCDBVariable : 
+SCDBLocLoad : 
+SCDBUse : False
+SCDBSerial : 0
+SCDBMaker : Noname
+SCDBMapName : Noname
+SCDBDataSize : 4
+E_SCDBSet
+S_FileManagerSET
+statlang : 0
+stattextdicCount : 86
+stattextdickey0 : 826
+stattextdicvalue0 : <14>★<28>。˙+˚<31>`M.w<15>)..<29>7.94<22>P <4>Extra<27>。+.˚<5>☆
+stattextdickey1 : 1345
+stattextdicvalue1 : r<3><28>★。˙+˚[패시브] 카메라 장착/해제  "<3>R<28>"。+.˚☆<10><2>Ⅰ) 빌더에 카메라를 장착 또는 해제 합니다.<10><2>Ⅱ) 장착시 화면이 빌더에 고정됩니다.
+stattextdickey2 : 1346
+stattextdicvalue2 : t<3><28>★。˙+˚[패시브] Pylon Change  "<3>T<28>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><2>Ⅰ) Pylon 건설버튼을 Builder Marker로 변경합니다.<10><2>Ⅱ) 한번 더 사용시 Pylon 건설버튼을 Power로 되돌립니다.<10><2>Ⅲ) ESC키로 건설을 취소할 수 있습니다.
+stattextdickey3 : 1347
+stattextdicvalue3 : y<3><28>★。˙+˚[패시브] 좌우반전  "<3>Y<28>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><2>Ⅰ) 미사일 발사 우선순위를 오른쪽으로 전환합니다.<10><2>Ⅱ) 한번 더 사용시 우선순위를 왼쪽으로 전환합니다.<10><2>Ⅲ) 휘는 방향도 반대로 전환됩니다.
+stattextdickey4 : 1348
+stattextdicvalue4 : s<0><4>★。˙+˚[명령] 정지  "<3>S<4>"。+.˚☆
+stattextdickey5 : 1349
+stattextdicvalue5 : a<0><5>★。˙+˚[여백] 공격  "<3>A<5>"。+.˚☆
+stattextdickey6 : 1350
+stattextdicvalue6 : g<0><5>★。˙+˚[여백] 채집  "<3>G<5>"。+.˚☆
+stattextdickey7 : 1351
+stattextdicvalue7 : r<0><5>★。˙+˚[여백] 수리  "<3>R<5>"。+.˚☆
+stattextdickey8 : 1352
+stattextdicvalue8 : b<0><4>★。˙+˚[명령] 기본 건물  "<3>B<4>"。+.˚☆
+stattextdickey9 : 1353
+stattextdicvalue9 : v<0><4>★。˙+˚[명령] 고급 건물  "<3>V<4>"。+.˚☆
+stattextdickey10 : 1354
+stattextdicvalue10 : <27><0><4>★。˙+˚[명령] 취소  "<3>ESC<4>"。+.˚☆
+stattextdickey11 : 1355
+stattextdicvalue11 : <27><0><4>★。˙+˚[명령] 이전  "<3>ESC<4>"。+.˚☆
+stattextdickey12 : 1356
+stattextdicvalue12 : m<0><4>★。˙+˚[명령] 이동  "<3>ESC<4>"。+.˚☆
+stattextdickey13 : 1357
+stattextdicvalue13 : c<1><23>★。˙+˚[세트] Serial Ball Missile  "<2>C<23>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><25>Ⅰ) 건설한 곳에서 14개의 미사일을 8번 발사합니다.<10><25>Ⅱ) 발사 간격 1.0s & 8회
+stattextdickey14 : 1358
+stattextdicvalue14 : s<1><7>★。˙+˚[단발] Slow Missile  "<3>S<7>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><24>Ⅰ) 건설한 곳에서 Slow Missile 1개를 발사합니다.<10><24>Ⅱ) 배틀크루저 & 이동속도 640
+stattextdickey15 : 1359
+stattextdicvalue15 : r<1><7>★。˙+˚[단발] Penetrating Missile  "<3>R<7>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><24>Ⅰ) 건설한 곳에서 Penetrating Missile★ 1개를 발사합니다.<10><24>Ⅱ) 발키리 & 이동속도 1080<10><24>Ⅲ) 한 번에 여러개를 발사 할 수 없습니다.<10><24>★) 이 미사일은 해처리를 관통합니다.
+stattextdickey16 : 1360
+stattextdicvalue16 : b<1><8>★。˙+˚[반사불가] Clock Missile Set  "<3>B<8>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><6>Ⅰ) Clock Missile을 일정한 간격으로 2번 발사합니다.<10><6>Ⅱ) 발사 간격 1.5s & 2회<10><6>Ⅲ) 이 미사일은 주변 미사일을 클로킹 시킵니다.
+stattextdickey17 : 1361
+stattextdicvalue17 : e<1><23>★。˙+˚[세트] Side Missile  "<2>E<23>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><25>Ⅰ) 필드 양쪽 끝에 미사일을 4회 발사합니다.<10><25>Ⅱ) 발사 간격 1.5s & 4회<10><25>☆) 이 미사일은 피탄범위가 넓습니다.
+stattextdickey18 : 1362
+stattextdicvalue18 : t<1><22>★。˙+˚[방어] Mirror  "<3>T<22>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><29>Ⅰ) Mirror 주변 미사일을 반사 시킵니다.<10><29>Ⅱ) 반사불가 미사일은 반사되지 않습니다.<10><29>Ⅲ) 주변의 클로킹 된 적 미사일을 탐지합니다.<10><29>Ⅵ) 이 건물은 건설 중단후 이어서 건설할 수 없습니다.
+stattextdickey19 : 1363
+stattextdicvalue19 : a<1><7>★。˙+˚[단발] Missile  "<3>A<7>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><24>Ⅰ) 건설한 곳에서 Missile 1개를 발사합니다.<10><24>Ⅱ) 스카웃 & 이동속도 1280
+stattextdickey20 : 1364
+stattextdicvalue20 : u<1><7>★。˙+˚[단발] Fast Missile  "<3>U<7>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><24>Ⅰ) 건설한 곳에서 Fast Missile 1개를 발사합니다.<10><24>Ⅱ) 스카웃 & 이동속도 1707
+stattextdickey21 : 1365
+stattextdicvalue21 : f<1><22>★。˙+˚[방어] Reverse Chain Missile  "<3>F<22>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><29>Ⅰ) 일정시간 동안 적 미사일을 적 필드에 모은 뒤 퍼트립니다.<10><29>Ⅱ) 일부 미사일은 적용되지 않습니다.<10><29>Ⅲ) 하이퍼노바 발동시 취소됩니다.<10><29>Ⅵ) 이 건물은 건설 중단후 이어서 건설할 수 없습니다.
+stattextdickey22 : 1366
+stattextdicvalue22 : s<1><7>★。˙+˚[단발] Refractor  "<3>S<7>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><24>Ⅰ) 건설한 곳에서 Refractor 1개를 발사합니다.<10><24>Ⅱ) 아비터 & 이동속도 1280<10><24>Ⅲ) 이 미사일은 반사할 수 없습니다.<10>Ⅳ) 이 미사일은 주변 미사일을 클로킹 시킵니다.
+stattextdickey23 : 1367
+stattextdicvalue23 : i<1><22>★。˙+˚[방어] Refration Defender "<3>I<22>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><29>Ⅰ) 일정시간 동안 필드위의 적 미사일의 궤도를 필드 뒤쪽으로 왜곡시킵니다.<10><29>Ⅱ) 필드 위의 Sniping Missile을 제거합니다.<10><29>Ⅲ) 사용횟수 제한 초과시 사용할 수 없습니다.<10><29>Ⅳ) 남은 사용횟수 <13>회<10><29>Ⅴ) 하이퍼노바 발동시 취소됩니다.
+stattextdickey24 : 1368
+stattextdicvalue24 : a<1><2>★。˙+˚[업글] Builder  "<3>A<2>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><4>Ⅰ) 빌더를 프로브(Builder)로 업그레이드 합니다.<10><4>Ⅱ) 2빌더 이상 사용시 전용 버프/디버프를 받습니다.
+stattextdickey25 : 1369
+stattextdicvalue25 : n<1><17>★。˙+˚[특수] Hydrogen Bomb  "<3>N<17>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><27>Ⅰ) 특정 조건을 만족하면 발사할 수 있습니다.<10><27>Ⅱ) 한 명당 한번만 발사할 수 있습니다.<10><27>Ⅲ) 하이퍼노바 발동시 취소됩니다.<10><27>Ⅳ) 발사 이후 재충전시 Pylon Reset을 발동합니다.
+stattextdickey26 : 1370
+stattextdicvalue26 : p<1><14>★。˙+˚[표식] Power  "<3>P<14>"。+.˚☆<9><9><9><9><9><9><9><9><9><9>
+stattextdickey27 : 1371
+stattextdicvalue27 : t<1><14>★。˙+˚[표식] Builder Marker  "<3>T<14>"。+.˚☆<9><9><9><9><9><9><9><9><9><9>
+stattextdickey28 : 1372
+stattextdicvalue28 : v<1><31>★。˙+˚[버프] Pattern Change  "<3>V<31>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><15>Ⅰ) 미사일의 도착지점이 반전 됩니다.<10><15>Ⅱ) 미사일의 속도를 한단계 증가시킵니다.<10><15>Ⅲ) 자신의 팀에 있는 미사일은 반전 되지 않습니다.<10><15>Ⅳ) 속도 증가 효과는 중첩되지 않습니다.<10><15>Ⅴ) 하이퍼노바 발동시 사용할수 없습니다.
+stattextdickey29 : 1373
+stattextdicvalue29 : g<1><23>★。˙+˚[세트] Side Stage Missile  "<2>G<23>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><25>Ⅰ) 상대필드 옆에서 계단처럼 순서대로 발사합니다.<10><25>Ⅱ) 발사 간격 1.5s & 7회<10><25>Ⅲ) 좌우반전시 역순으로 발사합니다.<10><25>☆) 이 미사일은 피탄범위가 넓습니다.
+stattextdickey30 : 1374
+stattextdicvalue30 : f<1><2>★。˙+˚[업글] Ultimate Builder  "<3>F<2>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><4>Ⅰ) 빌더를 드론(Ultimate Builder)로 업그레이드 합니다.<10><4>Ⅱ) 한번에 2마리 이상 업그레이드 시킬 수 없습니다.
+stattextdickey31 : 1375
+stattextdicvalue31 : c<1><22>★。˙+˚[방어] Super Mirror  "<3>C<22>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><29>Ⅰ) 필드 위 모든 미사일을 반사 시킵니다.<10><29>Ⅱ) 반사불가 미사일은 반사되지 않습니다.<10><29>Ⅲ) 주변의 클로킹 된 적 미사일을 탐지합니다.<10><29>Ⅳ) 사용횟수 제한 초과시 사용할 수 없습니다.<10><29>Ⅴ) 남은 사용횟수 <13>회
+stattextdickey32 : 1376
+stattextdicvalue32 : y<1><7>★。˙+˚[단발] Fast Missile  "<3>Y<7>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><24>Ⅰ) 건설한 곳에서 Fast Missile☆ 1개를 발사합니다.<10><24>Ⅱ) 스카웃 & 이동속도 1707<10><24>Ⅲ) 좌우반전시 역순으로 발사합니다.<10><24>☆) 이 미사일은 피탄범위가 넓습니다.
+stattextdickey33 : 1377
+stattextdicvalue33 : b<1><7>★。˙+˚[단발] Missile  "<3>B<7>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><24>Ⅰ) 건설한 곳에서 Missile☆ 1개를 발사합니다.<10><24>Ⅱ) 스카웃 & 이동속도 1280<10><24>Ⅲ) 좌우반전시 역순으로 발사합니다.<10><24>☆) 이 미사일은 피탄범위가 넓습니다.
+stattextdickey34 : 1378
+stattextdicvalue34 : <27><1><14>★。˙+˚[표식] 파괴  "<3>ESC<14>"。+.˚☆
+stattextdickey35 : 1379
+stattextdicvalue35 : r<1><8>★。˙+˚[반사불가] Spectrum Missile  "<3>R<8>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><6>Ⅰ) 중앙에 모인 후 적 필드에서 퍼지는 미사일을 발사합니다. & 필드 양쪽 끝에 미사일을 3개씩 발사합니다. <10><6>Ⅱ) 발사 간격 불균일 & 4회<10><6>Ⅲ) 이 미사일은 주변 미사일을 클로킹 시킵니다.
+stattextdickey36 : 1380
+stattextdicvalue36 : s<1><23>★。˙+˚[세트] Side Center Missile  "<2>S<23>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><25>Ⅰ) 상대필드 옆에서 V자로 순서대로 발사합니다.<10><25>Ⅱ) 발사 간격 1.5s & 4회<10><25>☆) 이 미사일은 피탄범위가 넓습니다.
+stattextdickey37 : 1381
+stattextdicvalue37 : c<1><22>★。˙+˚[방어] Sniper Defender  "<3>C<22>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><29>Ⅰ) 필드 위 모든 적 스나이핑 미사일을 제거합니다.<10>Ⅱ) 필드 위 모든 적 Light를 제거합니다.<10><29>Ⅲ) 필드 위 제거 대상이 없을 경우 취소됩니다.
+stattextdickey38 : 1382
+stattextdicvalue38 : b<1><23>★。˙+˚[세트] Center Missile  "<2>B<23>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><25>Ⅰ) 필드 중심부터 V자로 순서대로 발사합니다.<10><25>Ⅱ) 발사 간격 1.5s & 7회<10>Ⅲ) 2빌더 사용시 반사불가 미사일이 발사됩니다.<10><25>☆) 이 미사일은 피탄범위가 넓습니다.
+stattextdickey39 : 1383
+stattextdicvalue39 : f<1><31>★。˙+˚[버프] Crazy Missile  "<3>F<31>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><15>Ⅰ) 미사일을 일정시간 동안 흔든후 랜덤으로 날립니다.<10><15>Ⅱ) Super Crazy와 중복 사용할수 없습니다.<10><15>Ⅲ) 하이퍼노바 발동시 취소됩니다.
+stattextdickey40 : 1384
+stattextdicvalue40 : t<1><31>★。˙+˚[버프] Super Crazy Missile  "<3>T<31>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><15>Ⅰ) 미사일을 일정시간 동안 퍼트린 후 랜덤으로 날립니다.<10><15>Ⅱ) Crazy와 중복 사용할수 없습니다.<10><15>Ⅲ) 하이퍼노바 발동시 취소됩니다.
+stattextdickey41 : 1385
+stattextdicvalue41 : o<1><23>★。˙+˚[세트] Stage Missile  "<2>O<23>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><25>Ⅰ) 필드 왼쪽 끝부터 계단처럼 순서대로 발사합니다.<10><25>Ⅱ) 발사 간격 1.5s & 13회<10><25>Ⅲ) 좌우반전시 역순으로 발사합니다.<10>Ⅳ) 2빌더 사용시 반사불가 미사일이 발사됨.<10><25>☆) 이 미사일은 피탄범위가 넓습니다.
+stattextdickey42 : 1386
+stattextdicvalue42 : a<1><31>★。˙+˚[버프] Chain Missile  "<3>A<31>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><15>Ⅰ) 미사일을 연쇄폭발 시킨후 일정시간 동안 뭉쳤다가 적 필드 중앙에서 퍼트립니다.<10><15>Ⅱ) Sniping Missile을 제외한 반사불가 미사일은 적용되지 않습니다.<10><15>Ⅲ) Big Sniping Missile을 적 필드 앞에서 같이 퍼트립니다.
+stattextdickey43 : 1387
+stattextdicvalue43 : l<1><22>★。˙+˚[방어<27>/<8>반사불가<22>] SuperMissile  "<3>L<22>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><29>Ⅰ) 필드 위 모든 반사불가 미사일을을 제거합니다.<10><6>Ⅱ) 필드 양끝에서 출발해 적 필드를 X자로 교차하는 미사일을 발사합니다.<10><6>Ⅲ) 발사 간격 2.0s & 3회
+stattextdickey44 : 1388
+stattextdicvalue44 : h<1><16>★。˙+˚[회피] Creep Creater  "<3>H<16>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><30>Ⅰ) 크립을 생성합니다.<10>Ⅱ) 건물 상태에선 미사일에 맞지 않습니다.<10><30>Ⅲ) Penetrating Missile는 회피할수 없습니다.<10><30>Ⅳ) 건설후 SuperMissile을 건설할수 있습니다.<10><30>Ⅴ) 건설후 가격의 절반을 돌려받습니다.
+stattextdickey45 : 1389
+stattextdicvalue45 : c<1><23>★。˙+˚[세트] Side Missile Set  "<2>C<23>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><25>Ⅰ) 상대필드 옆에서 바둑판처럼 발사합니다.<10><25>Ⅱ) 발사 간격 1.0s & 4회
+stattextdickey46 : 1390
+stattextdicvalue46 : e<1><8>★。˙+˚[반사불가] Sniping Missile Set "<3>E<8>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><6>Ⅰ) 필드에서 바둑판처럼 발사합니다.<10><6>Ⅱ) 발사 간격 1.0s & 4회<10><6>Ⅲ) Missile Set보다 발사 우선순위가 낮습니다.
+stattextdickey47 : 1391
+stattextdicvalue47 : s<1><23>★。˙+˚[세트] Fast Stage Missile  "<2>S<23>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><25>Ⅰ) 필드 왼쪽 끝부터 계단처럼 순서대로 발사합니다.<10><25>Ⅱ) 발사 간격 1.0s & 13회
+stattextdickey48 : 1392
+stattextdicvalue48 : v<1><23>★。˙+˚[세트] Fast Center Missile  "<2>V<23>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><25>Ⅰ) 필드 중심부터 V자로 순서대로 발사합니다.<10><25>Ⅱ) 발사 간격 1.0s & 7회
+stattextdickey49 : 1393
+stattextdicvalue49 : d<1><23>★。˙+˚[세트] "Side Fast W Missile  "<2>D<23>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><25>Ⅰ) 상대필드 옆에서 W자로 발사합니다.<10><25>Ⅱ) 발사 간격 0.8s & 2회
+stattextdickey50 : 1394
+stattextdicvalue50 : s<1><17>★。˙+˚[특수] Hyper Nova  "<3>S<17>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><27>Ⅰ) 2회 충전해야 발사할수 있습니다.<10><27>Ⅱ) Chain을 제외한 모든 버프를 취소합니다.<10><27>Ⅲ) 발사중인 모든 미사일을 삭제합니다.<10><27>Ⅳ) 코발트 미사일과 중복 사용할수 없습니다.
+stattextdickey51 : 1395
+stattextdicvalue51 : q<1><23>★。˙+˚[세트] Missile Set  "<2>Q<23>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><25>Ⅰ) 필드에서 바둑판처럼 발사합니다.<10><25>Ⅱ) 발사 간격 1.0s & 4회
+stattextdickey52 : 1396
+stattextdicvalue52 : n<1><23>★。˙+˚[세트] Builder Missile  "<2>N<23>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><25>Ⅰ) Builder에서 미사일이 1개씩 발사합니다.<10><25>Ⅱ) 발사 간격 1.0s & 19회
+stattextdickey53 : 1397
+stattextdicvalue53 : u<1><23>★。˙+˚[세트] Straight Missile  "<2>U<23>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><25>Ⅰ) 필드에서 피할수 없는 직선 미사일을 발사합니다.<10><25>Ⅱ) 발사 간격 0.0s & 1회
+stattextdickey54 : 1398
+stattextdicvalue54 : d<1><8>★。˙+˚[반사불가] Cross X Missile  "<3>D<8>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><6>Ⅰ) 필드에서 X자로 순서대로 발사합니다.<10><6>Ⅱ) 발사 간격 0.5s & 13회
+stattextdickey55 : 1441
+stattextdicvalue55 : <30>- <2>Speed : <4>640 <30>-
+stattextdickey56 : 1442
+stattextdicvalue56 : <30>- <2>Speed : <4>1080 <30>-
+stattextdickey57 : 1443
+stattextdicvalue57 : <30>- <2>Speed : <4>1280 <30>-
+stattextdickey58 : 1444
+stattextdicvalue58 : <30>- <2>Speed : <4>1707 <30>-
+stattextdickey59 : 1445
+stattextdicvalue59 : <6>※ <8>Speed : <27>640 <6>※
+stattextdickey60 : 1446
+stattextdicvalue60 : <6>※ <8>Speed : <27>853 <6>※
+stattextdickey61 : 1447
+stattextdicvalue61 : <6>※ <8>Speed : <27>1280 <6>※
+stattextdickey62 : 1448
+stattextdicvalue62 : <6>※ <8>Speed : <27>1400 <6>※
+stattextdickey63 : 1449
+stattextdicvalue63 : <6>※ <8>Speed : <27>1707 <6>※
+stattextdickey64 : 1450
+stattextdicvalue64 : <6>※ <8>Speed : <27>2400 <6>※
+stattextdickey65 : 1451
+stattextdicvalue65 : <6>※ <8>Speed : <27>8533 <6>※
+stattextdickey66 : 570
+stattextdicvalue66 : <6>※ <8>Speed : <27>640 <6>※
+stattextdickey67 : 1399
+stattextdicvalue67 : d<1><7>★。˙+˚[단발] Invisible Missile  "<3>D<7>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><24>Ⅰ) 건설한 곳에서 Invisible Missile☆ 1개를 발사합니다.<10><24>Ⅱ) 레이스 & 이동속도 1707<10><24>Ⅲ) 이 미사일은 클로킹 되었다가 해제됩니다.<10><24>☆) 이 미사일은 피탄범위가 넓습니다.
+stattextdickey68 : 1400
+stattextdicvalue68 : e<1><23>★。˙+˚[세트] Side Edge Missile  "<2>E<23>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><25>Ⅰ) 상대필드 옆에서 양쪽 끝에 미사일을 4회 발사합니다.<10><25>Ⅱ) 발사 간격 1.5s & 4회<10><25>☆) 이 미사일은 피탄범위가 넓습니다.
+stattextdickey69 : 1401
+stattextdicvalue69 : f<3><28>★。˙+˚[패시브] Lighter  "<3>F<28>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><2>Ⅰ) 건설 중인 모든 단발 미사일을 즉시 발사합니다.<10><2>Ⅱ) 미사일 발사시 이펙트가 표시됩니다.<10><2>Ⅲ) 재사용 대기시간 4.5s
+stattextdickey70 : 1402
+stattextdicvalue70 : n<1><31>★。˙+˚[버프] Time Distortion  "<3>N<31>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><15>Ⅰ) 미사일의 시간을 왜곡시킵니다.<10><15>Ⅱ) 발동중 시전시 지속시간을 연장시킵니다.<10><15>Ⅲ) 하이퍼노바 발동시 사용할수 없습니다.
+stattextdickey71 : 1403
+stattextdicvalue71 : f<1><8>★。˙+˚[반사불가] Stair Missile  "<3>F<8>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><6>Ⅰ) 필드에서 계단식으로 2개씩 순서대로 발사합니다.<10><6>Ⅱ) 발사 간격 0.6s & 12회<10><6>Ⅲ) 다른 미사일보다 발사 우선순위가 높습니다.
+stattextdickey72 : 1404
+stattextdicvalue72 : h<1><22>★。˙+˚[방어<27>/<8>반사불가<22>] SuperMissile Another  "<3>H<22>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><29>Ⅰ) 필드 위 모든 반사불가 미사일을을 제거합니다.<10><6>Ⅱ) 필드 끝에서 출발해 적 필드를 <↓>형태로 교차하는 미사일을 발사합니다.<10><6>Ⅲ) 발사 간격 2.0s & 8회
+stattextdickey73 : 1405
+stattextdicvalue73 : c<1><7>★。˙+˚[단발] Sniping Missile  "<3>C<7>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><24>Ⅰ) 건설한 곳에서 Sniping Missile 1개를 발사합니다.<10><24>Ⅱ) 스커지 & 이동속도 1707<10><24>Ⅲ) 이 미사일은 반사할 수 없습니다.
+stattextdickey74 : 1440
+stattextdicvalue74 : <30>- <2>Speed : <4>1493∼1893 <30>-
+stattextdickey75 : 1406
+stattextdicvalue75 : r<1><7>★。˙+˚[단발] Homing Missile  "<3>R<7>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><24>Ⅰ) 건설한 곳에서 Homing Missile 1개를 발사합니다.<10><24>Ⅱ) 발키리 & 이동속도 1493 (+400)<10><24>Ⅲ) 이 미사일은 적 필드 앞에서 방향을 전환합니다.<10><24>Ⅳ) 미사일의 목표물은 랜덤으로 설정됩니다.
+stattextdickey76 : 1407
+stattextdicvalue76 : g<1><31>★。˙+˚[버프] Curve Missile  "<3>G<31>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><15>Ⅰ) 정방향 미사일의 방향을 사이드로 변경시킵니다.<10><15>Ⅱ) 상대필드 위의 미사일만 적용됩니다.<10><15>Ⅲ) 하이퍼노바 발동시 사용할수 없습니다.<10><15>Ⅳ) 수소폭탄에는 적용되지 않습니다.
+stattextdickey77 : 1408
+stattextdicvalue77 : f<1><23>★。˙+˚[세트] "Side Center Missile  "<2>F<23>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><25>Ⅰ) 상대필드 옆에서 V자로 순서대로 발사합니다.<10><25>Ⅱ) 발사 간격 1.0s & 6회
+stattextdickey78 : 1409
+stattextdicvalue78 : b<1><23>★。˙+˚[세트] Side Builder Missile  "<2>B<23>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><25>Ⅰ) 상대필드 옆에서 미사일을 1개씩 발사합니다.<10><25>Ⅱ) 미사일의 발사위치는 Builder의 세로 위치로 결정됩니다. <10><25>Ⅲ) 발사 간격 1.0s & 16회
+stattextdickey79 : 1410
+stattextdicvalue79 : f<1><31>★。˙+˚[버프] Portal  "<3>F<31>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><15>Ⅰ) 필드 앞쪽에 상대필드 앞쪽으로 통하는 포탈을 생성합니다.<10><15>Ⅱ) 포탈 입구에 있는 미사일은 포탈 출구로 이동됩니다.<10><15>Ⅲ) 발동중 시전시 지속시간을 연장시킵니다.<10><15>Ⅳ) 하이퍼노바 발동시 취소됩니다.
+stattextdickey80 : 1411
+stattextdicvalue80 : n<1><31>★。˙+˚[버프] Missile Accelerator  "<3>N<31>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><15>Ⅰ) 미사일의 속도를 두단계 증가시킵니다.<10><15>Ⅱ) 최대속도 증가 후 서서히 속도가 증가합니다.<10><15>Ⅲ) 속도 증가 효과는 중첩됩니다.<10><15>Ⅳ) 하이퍼노바 발동시 사용할수 없습니다.
+stattextdickey81 : 1412
+stattextdicvalue81 : f<1><31>★。˙+˚[버프] Time Lock  "<3>F<31>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><15>Ⅰ) 일정시간 동안 정방향과 사이드 미사일의 시간을 번갈아 가며 정지시킵니다.<10><15>Ⅱ) 발동중 시전시 지속시간을 연장시킵니다.<10><15>Ⅲ) 하이퍼노바 발동시 취소됩니다.<10>Ⅳ) 건설후 3초후 발동됩니다.<10><15>Ⅴ) 크립 없이도 건설할 수 있습니다.
+stattextdickey82 : 1413
+stattextdicvalue82 : r<1><23>★。˙+˚[세트] "Side Cross X Missile  "<2>R<23>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><25>Ⅰ) 상대필드 옆에서 X자로 순서대로 발사합니다.<10><25>Ⅱ) 발사 간격 0.5s & 11회
+stattextdickey83 : 1414
+stattextdicvalue83 : g<1><23>★。˙+˚[세트] "Slow W Missile  "<2>G<23>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><25>Ⅰ) 필드에서 W자로 발사합니다.<10><25>Ⅱ) 발사 간격 0.9s & 2회
+stattextdickey84 : 1415
+stattextdicvalue84 : u<1><23>★。˙+˚[세트] Side Straight Missile  "<2>U<23>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><25>Ⅰ) 상대필드 옆에서 피할수 없는 직선 미사일을 발사합니다.<10><25>Ⅱ) 발사 간격 0.0s & 1회<10><25>Ⅲ) 다른 미사일보다 발사시간이 느립니다.
+stattextdickey85 : 1416
+stattextdicvalue85 : c<1><22>★。˙+˚[방어] Missile Remover  "<3>C<22>"。+.˚☆<9><9><9><9><9><9><9><9><9><9><10><29>Ⅰ) 필드 위 모든 적 반사불가 미사일과 발키리를 제거합니다.<10><29>Ⅱ) Big Sniping Missile과 Light는 제거되지 않습니다.<10><29>Ⅲ) 건설 중단후 이어서 건설할 수 없습니다.<10><29>Ⅳ) 하이퍼노바에 사용할수 없습니다.
+wireuse : True
+E_FileManagerSET
+S_TriggerEditorSET
+&AddText&
+Type:23,False,False,False
+
+ElementsCount:0
+END
+
+&functions&
+Type:15,False,False,False
+ElementsCount:0
+END
+
+&GlobalVar&
+Type:0,False,False,False
+ElementsCount:0
+END
+
+&RawTriggers&
+Type:25,False,False,False
+ElementsCount:0
+END
+
+&onPluginStart&
+Type:0,False,False,False
+ElementsCount:0
+END
+
+&beforeTriggerExec&
+Type:0,False,False,False
+ElementsCount:0
+END
+
+&afterTriggerExec&
+Type:0,False,False,False
+ElementsCount:0
+END
+
+
+E_TriggerEditorSET
+S_PluginSET
+soundstopper : False
+scmloader : False
+noAirColsion : False
+unlimiter : False
+keepSTR : False
+eudTurbo : False
+iscriptPatcher : 
+iscriptPatcheruse : False
+unpatcher : 
+unpatcheruse : False
+nqcuse : False
+nqcunit : 
+nqclocs : 
+nqccommands : 
+grpinjectoruse : False
+grpinjector_arrow : 
+grpinjector_drag : 
+grpinjector_illegal : 
+dataDumperuse : False
+dataDumper_user : 
+dataDumper_grpwire : 
+dataDumper_tranwire : 
+dataDumper_wirefram : 
+dataDumper_cmdicons : 
+dataDumper_stat_txt : 
+dataDumper_AIscript : 
+dataDumper_iscript : 
+dataDumper_grpwire_f : 0
+dataDumper_tranwire_f : 0
+dataDumper_wirefram_f : 0
+dataDumper_cmdicons_f : 0
+dataDumper_stat_txt_f : 0
+dataDumper_AIscript_f : 0
+dataDumper_iscript_f : 0
+extraedssetting : 
+E_PluginSET

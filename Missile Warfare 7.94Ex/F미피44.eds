@@ -1,0 +1,15 @@
+[main]
+input: F미사일피하기44.scx
+output: F미피44Test.scx
+
+
+[CopyUNIT]
+UNIT : 7.90p extra/Extra_UNIT.chk
+[CPLP]
+[STRCtrig Assembler v5.5]
+[Unlimiter]
+[7.90Ex]
+
+
+[freeze]
+freeze : 0
